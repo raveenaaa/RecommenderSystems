@@ -10,7 +10,6 @@ This data is made available under the following Creative Commons license:http://
 
 # Files
 **user_artist_data.txt**
-3 columns: userid artistid playcount
 
 **artist_data.txt**
 2 columns: artistid artist_name
